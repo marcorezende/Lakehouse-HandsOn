@@ -20,7 +20,7 @@ Acesse:
 ```
 3. **Faça login com as seguintes credenciais**:
    - Usuário: minioadmin
-      minioadmin ```
+
    - Senha: minioadmin
 
 4. **Crie um bucket**:
