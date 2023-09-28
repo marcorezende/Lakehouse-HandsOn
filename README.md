@@ -14,7 +14,7 @@ Para executar este tutorial, é necessário ter o Docker e o Docker Compose inst
 docker compose up
 
 2. Acesse o Minio:
-Acesse http://localhost:9000
+Acesse [http://localhost:9000](http://localhost:9000)
 Faça login com as seguintes credenciais:
    - Usuário: minioadmin
    - Senha: minioadmin
