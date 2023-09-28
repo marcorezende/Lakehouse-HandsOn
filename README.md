@@ -4,29 +4,24 @@ Este repositório contém um tutorial para o evento PYNORTE 2023.
 
 ## Configuração do Ambiente com Docker Compose
 
-Para executar este tutorial, você precisará do Docker e Docker Compose instalados em sua máquina.
+Para executar este tutorial, é necessário ter o Docker e o Docker Compose instalados em sua máquina.
 
 ### Passos:
 
-1. Subir o ambiente:
+1. Inicie o ambiente:
 
 ```bash
 docker compose up
-```
-2. Entrar no minio:
 
-```bash
-Entrar em http://localhost:9000
-logar com usuário: minioadmin, senha minioadmin
-```
-3. Criar bucket:
+2. Acesse o Minio:
+Acesse http://localhost:9000
+Faça login com as seguintes credenciais:
+   - Usuário: minioadmin
+   - Senha: minioadmin
 
-```bash
-Criar bucket com nome lakehouse-demo
-```
-4. Criar credenciais:
+3. Crie um bucket:
+Nome: lakehouse-demo
 
-```bash
-Criar credenciais Acess Key: TESTE123 e
+4. Crie as credenciais:
+Access Key: TESTE123
 Secret Key: TESTE123
-```
