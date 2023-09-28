@@ -13,3 +13,5 @@ Para executar este tutorial, é necessário ter o Docker e o Docker Compose inst
 ```bash
 docker compose up
 
+2. Teste
+dsadas
