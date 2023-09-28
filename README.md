@@ -12,3 +12,20 @@ Para executar este tutorial, você precisará do Docker e Docker Compose instala
 
 ```bash
 docker compose up
+
+2. Entrar no minio:
+
+```bash
+Entrar em http://localhost:9000
+logar com usuário: minioadmin, senha minioadmin
+
+3. Criar bucket:
+
+```bash
+Criar bucket com nome lakehouse-demo
+
+4. Criar credenciais:
+
+```bash
+Criar credenciais Acess Key: TESTE123 e
+Secret Key: TESTE123
