@@ -13,7 +13,7 @@ Para executar este tutorial, é necessário ter o Docker e o Docker Compose inst
 docker compose up
 
 2. Acesse o Minio:
-Acesse [Flex Grid](http://exemplo.com/)
+Acesse http://localhost:9000
 
 Faça login com as seguintes credenciais:
    - Usuário: minioadmin
