@@ -19,10 +19,9 @@ Acesse:
  http://localhost:9000
 ```
 3. **Faça login com as seguintes credenciais**:
-   - Usuário:  ```bash
+   - Usuário: minioadmin
       minioadmin ```
-   - Senha:    ```bash
-      minioadmin ```
+   - Senha: minioadmin
 
 4. **Crie um bucket**:
 Nome: lakehouse-demo
