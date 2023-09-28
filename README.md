@@ -27,5 +27,7 @@ Acesse:
 Nome: lakehouse-demo
 
 5. **Crie as credenciais**:
-Access Key: TESTE123
-Secret Key: TESTE123
+   - Access Key: TESTE123
+   - Secret Key: TESTE123
+
+
