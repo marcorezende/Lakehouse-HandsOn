@@ -1,7 +1,6 @@
 # Tutorial PYNORTE 2023
 
 Este repositório contém um tutorial para o evento PYNORTE 2023.
-[Flex Grid](http://exemplo.com/)
 ## Configuração do Ambiente com Docker Compose
 
 Para executar este tutorial, é necessário ter o Docker e o Docker Compose instalados em sua máquina.
@@ -14,7 +13,8 @@ Para executar este tutorial, é necessário ter o Docker e o Docker Compose inst
 docker compose up
 
 2. Acesse o Minio:
-Acesse [http://localhost:9000](http://localhost:9000)
+Acesse [Flex Grid](http://exemplo.com/)
+
 Faça login com as seguintes credenciais:
    - Usuário: minioadmin
    - Senha: minioadmin
